@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Byte-compiled / optimized / temporary files
+__pycache__/
+*.pyc
+
+# Libraries
+venv/
