@@ -7,3 +7,12 @@ __pycache__/
 
 # Libraries
 venv/
+
+# git files
+.gitignore
+.gitattributes
+README.md
+
+# git directories
+.git/
+assets/
